@@ -1,5 +1,7 @@
 # digix2022_Knowledge-driven-spoken-dialogue
 
+[docs](https://nuikunvf7c.feishu.cn/docx/doxcnQxBcM5Iy3YEcSFngazZSbh)
+
 ## Baseline
 Baseline has three modules: text error correction, knowledge selection and generative model incorporating knowledge:
 1) Text Error Correction Module: Correcting grammar error of input text by replace, delete, insert and change order
